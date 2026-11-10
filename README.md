@@ -1,1 +1,1 @@
-reset set  nor gates
+v86 x86 virtual machine
